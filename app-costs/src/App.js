@@ -8,7 +8,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Olá</h1>
+      <h1>Olá!</h1>
       <SayMyName nome={name_people}></SayMyName>
       <Pessoa
         Nomeome="jônatas"

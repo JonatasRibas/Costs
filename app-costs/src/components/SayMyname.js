@@ -1,7 +1,9 @@
+import styles from './SayMyName.module.css'
+
 function SayMyName(props) {
   return (
     <div>
-      <p>Fala aí {props.nome}, tudo bem com você?</p>
+      <p className={styles.frase}>Fala aí {props.nome}, tudo bem com você?</p>
     </div>
   )
 }

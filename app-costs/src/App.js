@@ -1,5 +1,5 @@
 import './App.css'
-import SayMyName from './components/SayMyname'
+import SayMyName from './components/SayMyName'
 import Pessoa from './components/Pessoa'
 import Carro from './components/Carro'
 
